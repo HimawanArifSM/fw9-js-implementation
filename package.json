@@ -1,0 +1,20 @@
+{
+  "name": "implementation",
+  "version": "1.0.0",
+  "description": "this is my first node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "initialize",
+    "first",
+    "project"
+  ],
+  "author": "Himawan",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
